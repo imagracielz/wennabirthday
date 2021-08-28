@@ -1,0 +1,177 @@
+body{
+    background-color: #293b5f;
+    text-align: center;
+    margin: 0;
+}
+
+h1{
+    font-family: 'Paytone One', sans-serif;
+    font-size: 56px;
+    color: white;
+}
+
+h2{
+    font-family: 'Dela Gothic One', sans-serif;
+    font-size: 48px;
+    margin-top: 10px;
+}
+
+h3{
+    font-family: 'Dela Gothic One', sans-serif;
+    font-size: 44px;
+    margin-top: 10px;
+}
+
+hr{
+    border: none;
+    border-top: 8px dashed;
+    color: white;
+    height: 2%;
+    width: 15%;
+}
+
+p{
+    font-family: 'Montserrat', Times, serif;
+    font-size: 24px;
+}
+
+.top{
+    background-color: #293b5f;
+    padding-top: 25px;
+    padding-bottom: 50px;
+    margin-bottom: 10px;
+}
+
+.mid{
+    background-color: aliceblue;
+    position: relative;
+    padding-top: 50px;
+}
+
+.bottom{
+    margin: 10px auto 10px auto;
+    padding-top: 40px; 
+}
+
+.git{
+    position: absolute;
+    margin: 0;
+    padding: 0;
+}
+
+/*---object---*/
+ 
+.circle1{
+    position: relative;
+    margin-right: 1200px;
+    margin-bottom: 0;
+    height: 250px;
+    width: 250px;
+    border-radius: 50%;
+    display: inline-block;
+    background-color: #3C8DAD;
+    border-top-left-radius: 0;
+    border-top-right-radius: 0;
+    border-bottom-left-radius: 0;
+    border-bottom-right-radius: 100%;
+}
+
+.circle2{
+    position: relative;
+    margin-left: 1200px;
+    margin-bottom: 0;
+    height: 250px;
+    width: 250px;
+    border-radius: 50%;
+    display: inline-block;
+    background-color: #3C8DAD;
+    border-top-left-radius: 100%;
+    border-top-right-radius: 0;
+    border-bottom-left-radius: 0;
+    border-bottom-right-radius: 0;
+}
+
+.circle3{
+    position: absolute;
+    margin-left: 463px;
+    margin-bottom: 0;
+    margin-top: 0;
+    top: 1712px;
+    height: 250px;
+    width: 250px;
+    border-radius: 50%;
+    display: inline-block;
+    background-color: #f3b352;
+    border-top-left-radius: 0;
+    border-top-right-radius: 0;
+    border-bottom-left-radius: 100%;
+    border-bottom-right-radius: 0;
+}
+
+.dots{
+    border: none;
+    border-bottom: 15px dotted;
+    color: #D8D8D8;
+    height: 2%;
+    width: 8%;
+}
+
+.gwennapic{
+    height: 500px;
+    width: 350px;
+    position: absolute;
+    left: 150px;
+}
+
+.besties{
+    height: 500px;
+    width: 360px;
+}
+
+.guitar{
+    position: relative;
+    left: -400px;
+    top: -400px;
+    height: 850px;
+    width: 1000px;
+    transform: rotate(10deg);
+    padding: 0;
+}
+
+
+/* texts */
+
+.happytext{
+    margin-left: 520px;
+    text-align: left;
+}
+
+.happysent{
+    background-color: #346751;
+    color: aliceblue;
+}
+
+.thanks{
+    color: white;
+    margin-top: 20px;
+}
+
+.random-text{
+    position: relative;
+    height: 60px;
+    width: 555px;
+    margin: 0 auto 0 auto;
+    background-color: aliceblue;
+}
+
+.bye-text{
+    padding-top: 10%;
+    padding-bottom: 5%;
+    margin-bottom: 0;
+    color: white;
+}
+
+.copyright{
+    color: #f3b352;
+    font-size: 16px;
+}
